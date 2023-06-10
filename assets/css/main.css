@@ -8613,6 +8613,11 @@ input, select, textarea {
 				border-radius: 5px;
 			}
 
+			body{
+				background-color: lightsteelblue;
+				color: #000000;
+				font-size: 22px;
+			}
 		
 
 		
