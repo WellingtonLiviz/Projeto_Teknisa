@@ -8635,7 +8635,7 @@ input, select, textarea {
 		}
 	
 		.container::before{
-			content: "100% concluído";
+			content: "50% concluído";
 			position: absolute;
 			right: -150px;
 			bottom: -5px;
@@ -8657,7 +8657,7 @@ input, select, textarea {
 	}
 
 	.container2::before{
-		content: "100% concluído";
+		content: "20% concluído";
 		position: absolute;
 		right: -150px;
 		bottom: -5px;
@@ -8679,7 +8679,7 @@ input, select, textarea {
 }
 
 .container3::before{
-	content: "100% concluído";
+	content: "5% concluído";
 	position: absolute;
 	right: -150px;
 	bottom: -5px;
@@ -8706,7 +8706,7 @@ border-radius: 10px;
 			 animation: progress-animation 10s infinite;
 		}
 		.container::before{
-			content: "100% concluído";
+			content: "50% concluído";
 			position: absolute;
 			right: -150px;
 			bottom: -5px;
@@ -8727,7 +8727,7 @@ border-radius: 10px;
 		 animation: progress-animation2 10s infinite;
 	}
 	.container2::before{
-		content: "100% concluído";
+		content: "20% concluído";
 		position: absolute;
 		right: -150px;
 		bottom: -5px;
@@ -8748,7 +8748,7 @@ border-radius: 10px;
 	 animation: progress-animation3 10s infinite;
 }
 .container3::before{
-	content: "100% concluído";
+	content: "5% concluído";
 	position: absolute;
 	right: -150px;
 	bottom: -5px;
