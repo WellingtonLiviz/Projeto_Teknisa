@@ -8624,7 +8624,9 @@ input, select, textarea {
 				margin-left: 10px;
 				font-size: 20px;
 			}
-		
+			.texto-branco{
+				color: white;
+			}
 			.container {
 				height: 25px;
 				width:300px;
