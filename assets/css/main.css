@@ -8619,10 +8619,12 @@ input, select, textarea {
 				background: -webkit-linear-gradient(  white,blue);
 				color: #000000;
 				font-size: 22px;
+				font-weight: 450;
 			}
 			.responsivo{
 				margin-left: 10px;
 				font-size: 15px;
+				font-weight: 500;
 			}
 			.texto-branco{
 				color: white;
