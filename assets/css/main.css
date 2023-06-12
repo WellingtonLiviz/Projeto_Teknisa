@@ -8612,10 +8612,17 @@ input, select, textarea {
 				padding: 0px 15px;
 				border-radius: 5px;
 			}
+			.back-end{
+				background-color: blue;
+			}
 			body{
-				
+				background: -webkit-linear-gradient(  white,blue);
 				color: #000000;
 				font-size: 22px;
+			}
+			.responsivo{
+				margin-left: 10px;
+				font-size: 20px;
 			}
 		
 			.container {
